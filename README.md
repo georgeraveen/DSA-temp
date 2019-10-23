@@ -1,1 +1,1 @@
-# ucsc-demo
+# Data Structures and Algorithms implementations
